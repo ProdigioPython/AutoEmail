@@ -1,5 +1,5 @@
 
-TUTORIAL:
+Explicação de cada linha do código:
 
 Importar a biblioteca smtplib: Essa biblioteca fornece as funções necessárias para enviar e-mails através de um servidor SMTP.
 
